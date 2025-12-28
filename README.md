@@ -4,17 +4,16 @@
 Building scalable web applications using React, Node, databases, APIs.
 
 2. I'm looking to collaborate on
-Full-stack, MERN, Python, blockchain, fintech, real-world problem-solving projects.
+Opportunities to contribute to professional software projects, collaborate with development teams, and grow as a developer through real-world challenges.
 
-3. I'm looking for help with
+4. I'm looking for help with
 System design, scalability, testing, DevOps basics, smart contract optimization.
 
-4. I'm currently learning
-Next.js, advanced React, DSA, Python, Solidity, API security.
+5. I'm currently learning
+Advanced JavaScript, React, backend optimization, system design fundamentals, and best practices for scalable application development.
 
 **Ask me about**
-Web development, MERN stack, Python projects, blockchain, APIs.
-
+I am a Software Developer with experience in full-stack web development, API integration, and database-driven applications. I focus on writing clean, efficient code and continuously improving my technical skills through practical projects.
 
 
 ## 🌐 Socials:
