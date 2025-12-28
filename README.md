@@ -1,5 +1,20 @@
 # 💫 About Me:
-Building scalable web applications using React, Node, databases, APIs.<br>Full-stack, MERN, Python, blockchain, fintech, real-world problem-solving projects.<br>System design, scalability, testing, DevOps basics, smart contract optimization.<br>Next.js, advanced React, DSA, Python, Solidity, API security.<br>Web development, MERN stack, Python projects, blockchain, APIs.<br>
+
+1. I'm currently working on
+Building scalable web applications using React, Node, databases, APIs.
+
+2. I'm looking to collaborate on
+Full-stack, MERN, Python, blockchain, fintech, real-world problem-solving projects.
+
+3. I'm looking for help with
+System design, scalability, testing, DevOps basics, smart contract optimization.
+
+4. I'm currently learning
+Next.js, advanced React, DSA, Python, Solidity, API security.
+
+**Ask me about**
+Web development, MERN stack, Python projects, blockchain, APIs.
+
 
 
 ## 🌐 Socials:
